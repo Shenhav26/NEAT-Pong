@@ -1,7 +1,7 @@
 # Pong game using NEAT
 ##### (Neuroevolution of augmenting topologies)
 #
-[![N|Solid](https://i.ibb.co/nmyX8n3/Pong.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://i.ibb.co/2c0MBj2/image.png)](https://nodesource.com/products/nsolid)
 
 
 ## Requirements
